@@ -1,5 +1,5 @@
 <!-- Badges: -->
-[![License](https://img.shields.io/github/license/ShisheerKaushik24/Celebrity-resemblance-classification-model--.svg?logo=CreativeCommons&style=flat-square)](https://github.com/ShisheerKaushik24/Celebrity-resemblance-classification-model--/blob/master/LICENSE)
+[![License](https://img.shields.io/github/license/ShisheerKaushik24/Celebrity-resemblance-classification-model--.svg?logo=CreativeCommons&style=flat-square)](https://github.com/ShisheerKaushik24/Celebrity-resemblance-classification-model--/blob/main/LICENSE)
 [![Contributions](https://img.shields.io/badge/contributions-welcome-orange?style=flat-square)](https://github.com/ShisheerKaushik24/Celebrity-resemblance-classification-model--/pulls)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ShisheerKaushik24/Celebrity-resemblance-classification-model--/graphs/commit-activity)
 
